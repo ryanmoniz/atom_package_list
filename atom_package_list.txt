@@ -1,7 +1,6 @@
 atom-terminal@0.7.0
 atom-ternjs@0.5.19
 auto-indent@0.1.0
-autocomplete-plus@2.9.0
 build@0.27.0
 code-links@0.3.8
 dash@1.1.0
